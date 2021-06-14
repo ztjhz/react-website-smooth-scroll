@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-website-smooth-scroll/static/css/main.049448e2.chunk.css",
-    "main.js": "/react-website-smooth-scroll/static/js/main.0ab0cc7e.chunk.js",
-    "main.js.map": "/react-website-smooth-scroll/static/js/main.0ab0cc7e.chunk.js.map",
+    "main.js": "/react-website-smooth-scroll/static/js/main.a6214cca.chunk.js",
+    "main.js.map": "/react-website-smooth-scroll/static/js/main.a6214cca.chunk.js.map",
     "runtime-main.js": "/react-website-smooth-scroll/static/js/runtime-main.ed356816.js",
     "runtime-main.js.map": "/react-website-smooth-scroll/static/js/runtime-main.ed356816.js.map",
     "static/js/2.7a2b1cb3.chunk.js": "/react-website-smooth-scroll/static/js/2.7a2b1cb3.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.ed356816.js",
     "static/js/2.7a2b1cb3.chunk.js",
     "static/css/main.049448e2.chunk.css",
-    "static/js/main.0ab0cc7e.chunk.js"
+    "static/js/main.a6214cca.chunk.js"
   ]
 }
